@@ -1,7 +1,7 @@
 I created  this template to calculate the most important ratios for businesses.
 I simply replace the figures in Column B with figures from client accounts. The ratios will be automatically generated in Column B below the Balance Sheet. 
 I then help the client review these ratios in conjunction with other ratios, industry benchmarks, competitor performance, and historical trends to get a complete picture of the client company's financial health.
-based on this template, here are some common Questions I can quickly answer for clients on a live call:
+Based on this template, here are some common Questions I can quickly answer for clients on a live call:
 1) Is there a bankruptcy risk or potential cash crunch?
 2) Can the company get more leverage or are lenders likely to deny credit?
 3) Is my product indicating high or low demand?
